@@ -5,7 +5,10 @@
 </h1>
 
 ## 🔎️ Description
+
 A mailing application built with Vue.js 2.
+
+This project was made during the <a href="udemy.com/course/vuejs-from-beginner-to-professional/">Vue JS 2: From Beginner to Professional</a> course on Udemy.
 
 ## 🚀️ Technologies
 
